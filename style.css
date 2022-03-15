@@ -1,0 +1,35 @@
+#livecom1 {
+	font-size: 50px;
+	font-family: cursive;
+	color: rgb(80, 218, 39);
+	padding-left: 10px;
+	padding-bottom: 0px;
+}
+body {
+	background-color: #f1f1f1
+	font: normal 16px sans-serif;
+}
+#livecam {
+	width: 100px;
+	padding-bottom: 0px;
+}
+#hello25 {
+	font: normal 20px sans-serif;
+}
+#table2 {
+	width: 600px;
+}
+#reports {
+	font-size: 30px;
+	font-family: cursive;
+}
+#report {
+	font-size: 35px;
+	font-family: cursive;
+}
+#report1 {
+	font: normal 30px cursive ;
+}
+#ps {
+	font: normal 25px sans-serif;
+}
