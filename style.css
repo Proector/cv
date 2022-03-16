@@ -92,3 +92,8 @@ a:active {
 	margin-left: 500px;
 	margin-right: 500px;
 }
+.intro {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1363px;
+}
